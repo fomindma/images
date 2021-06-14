@@ -1,1 +1,1 @@
-# images
+# There I'll store images.
